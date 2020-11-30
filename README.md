@@ -7,3 +7,5 @@ This is a simple color changing screen that changes color with cursor movement.
 To see different colors just move your cursor on the screen and whenever you like a certain color, click at that spot to copy the color in hex mode to the cliboard.
 
 ![copy-color](./src/images/copy.png)
+
+> To check the live version visit: https://color-changer-picker.netlify.app/
