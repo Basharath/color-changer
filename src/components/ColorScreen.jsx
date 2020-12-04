@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Github from './Github';
 
 export default function ColorScreen() {
   const [bg, setBg] = useState('');
@@ -30,6 +31,7 @@ export default function ColorScreen() {
 
   return (
     <>
+      <Github github="https://github.com/Basharath/color-changer" />
       <div
         className="screen"
         style={{ background: bg }}
